@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    line-height: 100px;
+}
+.container {
+    height: 90vh;
+}
+
+.side-bar{
+
+    
+    background-color: #FB4D3D;
+    line-height: 300px;
+
+}
+
+.content {
+    height: 70vh;
+    
+}
+
+.side2 {
+    height: 45vh;
+    column-gap: 10px;   
+}
+
+
+
+
+.content1{
+ 
+    background-color: #03CEA4;
+    line-height: 150px;
+
+}
+
+.content2, .content3{
+    background-color: #B80053;
+    width:49.4%;
+    line-height: 150px;
+    
+
+}
+
+
+
+.full-row {
+    background-color: #2A4879;
+    line-height: 20px;
+
+}
+
+
+body{
+    background-color: black;
+}
